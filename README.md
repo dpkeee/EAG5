@@ -4,10 +4,10 @@
 
 This project demonstrates how to:
 
-Create MCP tools for different functions.
-Call the MCP tools using structured prompting.
-Pass data to tools in JSON.
-Use Google's Gemini model to interpret natural language requests
+- Create MCP tools for different functions.
+- Call the MCP tools using structured prompting.
+- Pass data to tools in JSON.
+- Use Google's Gemini model to interpret natural language requests
 
 ## Requirements
 
