@@ -17,8 +17,8 @@ load_dotenv()
 
 # Access your API key and initialize Gemini client correctly
 api_key = os.getenv("GEMINI_API_KEY")
-#client = genai.Client(api_key=api_key)
-client = genai.Client(api_key="AIzaSyAXJ-CEwKh_POvrp5dcL5BYfwoqBZfA68s")
+client = genai.Client(api_key=api_key)
+
 
 max_iterations = 1
 
